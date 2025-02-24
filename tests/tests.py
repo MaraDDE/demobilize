@@ -26,6 +26,4 @@ def test_add_to_cart():
         print("Test Passed: Item successfully added to cart")
         browser.close()
 
-if __name__ == "__main__":
-    test_add_to_cart()
 
